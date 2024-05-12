@@ -1,5 +1,6 @@
 <x-site-layout>
 
+    <h1>hi</h1>
 
     <!-- banner section start -->
     <div class="banner_section layout_padding">
